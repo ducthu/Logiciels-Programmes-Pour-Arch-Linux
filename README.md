@@ -1,4 +1,4 @@
-#Listes de programmes pour GNU/Linux Arch Linux:
+# Listes de programmes pour GNU/Linux Arch Linux:
 
 ## Éditeur de texte & Programmation:
 - [NVIM](https://github.com/neovim/neovim/wiki/Installing-Neovim)
